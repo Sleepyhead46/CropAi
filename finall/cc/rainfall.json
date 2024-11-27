@@ -1,0 +1,1702 @@
+[
+  {
+    "loction": "Agimir",
+    "rainfall": 1061.6
+  },
+  {
+    "loction": "Aisealukhark",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Ambapur",
+    "rainfall": 1642.8
+  },
+  {
+    "loction": "Amlekhganj",
+    "rainfall": 1808.7
+  },
+  {
+    "loction": "Anarmani Birta",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Anp Chour",
+    "rainfall": 1628.4
+  },
+  {
+    "loction": "Archale",
+    "rainfall": 1810.5
+  },
+  {
+    "loction": "Asara Ghat",
+    "rainfall": 1056.5
+  },
+  {
+    "loction": "Atraulitar",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Badhichaur",
+    "rainfall": 1433.6
+  },
+  {
+    "loction": "Baghara",
+    "rainfall": 2706.4
+  },
+  {
+    "loction": "Baglung",
+    "rainfall": 2011.6
+  },
+  {
+    "loction": "Bahrabise",
+    "rainfall": 2880
+  },
+  {
+    "loction": "Bahun Tilpung",
+    "rainfall": 1243
+  },
+  {
+    "loction": "Bahunipati",
+    "rainfall": 1471.5
+  },
+  {
+    "loction": "Baijapur",
+    "rainfall": 574
+  },
+  {
+    "loction": "Baitadi",
+    "rainfall": 1445.1
+  },
+  {
+    "loction": "Bajura (Martadi)",
+    "rainfall": 2061
+  },
+  {
+    "loction": "Baldyanggadi",
+    "rainfall": 1819
+  },
+  {
+    "loction": "Bale Budha (Tallo Dhungeshwor)",
+    "rainfall": 1118.6
+  },
+  {
+    "loction": "Baliya",
+    "rainfall": 2213
+  },
+  {
+    "loction": "Bandipur",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Banganga",
+    "rainfall": 1026.8
+  },
+  {
+    "loction": "Bangga Camp",
+    "rainfall": 1508.3
+  },
+  {
+    "loction": "Bardaghat",
+    "rainfall": 2763.8
+  },
+  {
+    "loction": "Bargadaha",
+    "rainfall": 1972.8
+  },
+  {
+    "loction": "Barmajhiya",
+    "rainfall": 1709.9
+  },
+  {
+    "loction": "Barpak",
+    "rainfall": 2907.3
+  },
+  {
+    "loction": "Basti",
+    "rainfall": 995
+  },
+  {
+    "loction": "Bau Khola (Bam)",
+    "rainfall": 740.6
+  },
+  {
+    "loction": "Bega",
+    "rainfall": 1876.3
+  },
+  {
+    "loction": "Begnas",
+    "rainfall": 3065.2
+  },
+  {
+    "loction": "Belauri Santipur",
+    "rainfall": 1489.8
+  },
+  {
+    "loction": "Belmar",
+    "rainfall": 972.4
+  },
+  {
+    "loction": "Beluwa (Girwari)",
+    "rainfall": 2400
+  },
+  {
+    "loction": "Beluwa(Manahari)",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Beni Bazar",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Bhadaure Deurali",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Bhagawanpur",
+    "rainfall": 1033.2
+  },
+  {
+    "loction": "Bhagwanpur",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Bhairahawa (Agric)",
+    "rainfall": 1891.4
+  },
+  {
+    "loction": "Bhairahawa Airport",
+    "rainfall": 1717.2
+  },
+  {
+    "loction": "Bhajani",
+    "rainfall": 1426.1
+  },
+  {
+    "loction": "Bhaktapur",
+    "rainfall": 1089.4
+  },
+  {
+    "loction": "Bharatpur",
+    "rainfall": 2040.7
+  },
+  {
+    "loction": "Bharse",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Bhimgithhe",
+    "rainfall": 2659.7
+  },
+  {
+    "loction": "Bhorletar",
+    "rainfall": 2257.7
+  },
+  {
+    "loction": "Bhujung",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Bichawa",
+    "rainfall": 1416.8
+  },
+  {
+    "loction": "Bijayapur (Raskot)",
+    "rainfall": 1786.9
+  },
+  {
+    "loction": "Bijuwar Tar",
+    "rainfall": 1060.7
+  },
+  {
+    "loction": "Binayak",
+    "rainfall": 1241.1
+  },
+  {
+    "loction": "Biratnagar Airport",
+    "rainfall": 1038.2
+  },
+  {
+    "loction": "Birganj",
+    "rainfall": 1227.4
+  },
+  {
+    "loction": "Biunthari",
+    "rainfall": 726.5
+  },
+  {
+    "loction": "Bobang",
+    "rainfall": 2619.8
+  },
+  {
+    "loction": "Butwal",
+    "rainfall": 3525.5
+  },
+  {
+    "loction": "Chainpur (East)",
+    "rainfall": 1142.5
+  },
+  {
+    "loction": "Chainpur Bajhang Aws Climate",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Chandra Gadhi",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Changu Narayan",
+    "rainfall": 1336.3
+  },
+  {
+    "loction": "Chapa Gaun",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Chapkot",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Charikot",
+    "rainfall": 2684.4
+  },
+  {
+    "loction": "Chatara",
+    "rainfall": 1564.7
+  },
+  {
+    "loction": "Chaumala",
+    "rainfall": 2313.8
+  },
+  {
+    "loction": "Chaurikhark",
+    "rainfall": 1515
+  },
+  {
+    "loction": "Chaurjhari Tar",
+    "rainfall": 1209.9
+  },
+  {
+    "loction": "Chautara",
+    "rainfall": 1572
+  },
+  {
+    "loction": "Chautha",
+    "rainfall": 1228.3
+  },
+  {
+    "loction": "Chepuwa",
+    "rainfall": 2758.3
+  },
+  {
+    "loction": "Chhekampar",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Chhoser",
+    "rainfall": 269.4
+  },
+  {
+    "loction": "Chisapani (Syangja)",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Chisapani Bazar",
+    "rainfall": 1367.5
+  },
+  {
+    "loction": "Chisapani Gadhi",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Chisapani(Karnali)",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Chiuri",
+    "rainfall": 1133.6
+  },
+  {
+    "loction": "Chumchet",
+    "rainfall": 617.5
+  },
+  {
+    "loction": "Chundi Rangha",
+    "rainfall": 1557
+  },
+  {
+    "loction": "Dadeldhura",
+    "rainfall": 1374.1
+  },
+  {
+    "loction": "Dadimadi",
+    "rainfall": 1774.8
+  },
+  {
+    "loction": "Dailekh",
+    "rainfall": 1673.8
+  },
+  {
+    "loction": "Dainsili",
+    "rainfall": 2244
+  },
+  {
+    "loction": "Damak",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Damauli",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Dandagaun",
+    "rainfall": 1234.9
+  },
+  {
+    "loction": "Dandaswara",
+    "rainfall": 2698
+  },
+  {
+    "loction": "Darbang",
+    "rainfall": 2379.8
+  },
+  {
+    "loction": "Darchula",
+    "rainfall": 2463.3
+  },
+  {
+    "loction": "Darchula New",
+    "rainfall": 2485.7
+  },
+  {
+    "loction": "Darma",
+    "rainfall": 1026.2
+  },
+  {
+    "loction": "Daugha",
+    "rainfall": 1235.8
+  },
+  {
+    "loction": "Dedhgauntar",
+    "rainfall": 2204.1
+  },
+  {
+    "loction": "Deurali Nawal",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Dhakeri",
+    "rainfall": 1692
+  },
+  {
+    "loction": "Dhangadhi(Attariya)",
+    "rainfall": 1607.4
+  },
+  {
+    "loction": "Dhankuta",
+    "rainfall": 936.5
+  },
+  {
+    "loction": "Dhap",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Dharan Bazar",
+    "rainfall": 2215.7
+  },
+  {
+    "loction": "Dharmpaniya",
+    "rainfall": 1957.6
+  },
+  {
+    "loction": "Dhaulatiya (Dallekhdhar)",
+    "rainfall": 2749.2
+  },
+  {
+    "loction": "Dhulikhel",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Dhunche",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Dhunibesi",
+    "rainfall": 1179.3
+  },
+  {
+    "loction": "Diktel",
+    "rainfall": 1509.8
+  },
+  {
+    "loction": "Dingla",
+    "rainfall": 1557.8
+  },
+  {
+    "loction": "Dipal Gaun",
+    "rainfall": 911.3
+  },
+  {
+    "loction": "Dipayal (Doti)",
+    "rainfall": 957.3
+  },
+  {
+    "loction": "Dodhara",
+    "rainfall": 1798.4
+  },
+  {
+    "loction": "Dolal Ghat",
+    "rainfall": 1179.1
+  },
+  {
+    "loction": "Dovan",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Dumkauli",
+    "rainfall": 1961.3
+  },
+  {
+    "loction": "Dumkibas",
+    "rainfall": 3051.5
+  },
+  {
+    "loction": "Dumrakot",
+    "rainfall": 751.9
+  },
+  {
+    "loction": "Dunai",
+    "rainfall": 556.9
+  },
+  {
+    "loction": "Duwachaur",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Faleni",
+    "rainfall": 3247.6
+  },
+  {
+    "loction": "Gadhawa",
+    "rainfall": 1496.9
+  },
+  {
+    "loction": "Gaida (Kankai)",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Gaighat",
+    "rainfall": 1575.1
+  },
+  {
+    "loction": "Gaira",
+    "rainfall": 1962.8
+  },
+  {
+    "loction": "Gajuri",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Galkot",
+    "rainfall": 2800.1
+  },
+  {
+    "loction": "Gam Shree Nagar",
+    "rainfall": 778.2
+  },
+  {
+    "loction": "Gamtha",
+    "rainfall": 1103.6
+  },
+  {
+    "loction": "Gandakot",
+    "rainfall": 1845.9
+  },
+  {
+    "loction": "Gangadi",
+    "rainfall": 1661.2
+  },
+  {
+    "loction": "Garman Darbar",
+    "rainfall": 1628.2
+  },
+  {
+    "loction": "Gaur",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Gausala",
+    "rainfall": 2370.5
+  },
+  {
+    "loction": "Gela",
+    "rainfall": 898.8
+  },
+  {
+    "loction": "Ghale Kharka",
+    "rainfall": 4105.3
+  },
+  {
+    "loction": "Ghandruk",
+    "rainfall": 3822.8
+  },
+  {
+    "loction": "Gharedhunga",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Ghatya Khola",
+    "rainfall": 731.6
+  },
+  {
+    "loction": "Ghorai (Dang)",
+    "rainfall": 1607.3
+  },
+  {
+    "loction": "Ghorepani",
+    "rainfall": 2575.3
+  },
+  {
+    "loction": "Gilung",
+    "rainfall": 2862.9
+  },
+  {
+    "loction": "Godavari",
+    "rainfall": 1334.9
+  },
+  {
+    "loction": "Godavari(West)",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Goga",
+    "rainfall": 977.5
+  },
+  {
+    "loction": "Goganepani",
+    "rainfall": 2708.4
+  },
+  {
+    "loction": "Gokuleshwar",
+    "rainfall": 1724.4
+  },
+  {
+    "loction": "Gopghat (Golaghat)",
+    "rainfall": 1912.5
+  },
+  {
+    "loction": "Gorkha",
+    "rainfall": 1527.4
+  },
+  {
+    "loction": "Gothi",
+    "rainfall": 1366.1
+  },
+  {
+    "loction": "Gulariya",
+    "rainfall": 1047.3
+  },
+  {
+    "loction": "Gumthang",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Gurja Khani",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Guthi Chaur",
+    "rainfall": 1399.5
+  },
+  {
+    "loction": "Gwati",
+    "rainfall": 2415.1
+  },
+  {
+    "loction": "Hanmannagar",
+    "rainfall": 1573.6
+  },
+  {
+    "loction": "Hanspur",
+    "rainfall": 1549.4
+  },
+  {
+    "loction": "Haraincha",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Hardinath",
+    "rainfall": 1205
+  },
+  {
+    "loction": "Hariharpur Gadhi Valley",
+    "rainfall": 2595.1
+  },
+  {
+    "loction": "Hattilung",
+    "rainfall": 2176.9
+  },
+  {
+    "loction": "Hetaunda N.f.i.",
+    "rainfall": 2437.6
+  },
+  {
+    "loction": "Himali Gaun",
+    "rainfall": 2382.9
+  },
+  {
+    "loction": "Humde",
+    "rainfall": 298.7
+  },
+  {
+    "loction": "Ilam Tea Estate",
+    "rainfall": 1101.3
+  },
+  {
+    "loction": "Jacha",
+    "rainfall": 799.5
+  },
+  {
+    "loction": "Jagat (Setibas)",
+    "rainfall": 1443.7
+  },
+  {
+    "loction": "Jagatipur",
+    "rainfall": 966.6
+  },
+  {
+    "loction": "Jajarkot",
+    "rainfall": 1539.5
+  },
+  {
+    "loction": "Jalkundi",
+    "rainfall": 1195.8
+  },
+  {
+    "loction": "Jalpa",
+    "rainfall": 2105.5
+  },
+  {
+    "loction": "Jamna (Dillichaur)",
+    "rainfall": 1129.6
+  },
+  {
+    "loction": "Jamu (Tikuwa Kuna)",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Janakpur Airport",
+    "rainfall": 1466.4
+  },
+  {
+    "loction": "Jhalari",
+    "rainfall": 1525.7
+  },
+  {
+    "loction": "Jhingrana",
+    "rainfall": 3254.9
+  },
+  {
+    "loction": "Jhuwani",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Jiri",
+    "rainfall": 2770.5
+  },
+  {
+    "loction": "Jitpurphedhi",
+    "rainfall": 1864.2
+  },
+  {
+    "loction": "Jogbugha",
+    "rainfall": 987
+  },
+  {
+    "loction": "Jomsom",
+    "rainfall": 275.2
+  },
+  {
+    "loction": "Jumla",
+    "rainfall": 814
+  },
+  {
+    "loction": "Jumla A/P",
+    "rainfall": 698
+  },
+  {
+    "loction": "Juphal",
+    "rainfall": 538.7
+  },
+  {
+    "loction": "Jyagdi",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Jyamire",
+    "rainfall": 2398
+  },
+  {
+    "loction": "Jyamirebari",
+    "rainfall": 2907.9
+  },
+  {
+    "loction": "Kabre",
+    "rainfall": 1940.9
+  },
+  {
+    "loction": "Kabreneta",
+    "rainfall": 1309.2
+  },
+  {
+    "loction": "Kaigaun",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Kailasmandu",
+    "rainfall": 1902.6
+  },
+  {
+    "loction": "Kakani",
+    "rainfall": 2809.3
+  },
+  {
+    "loction": "Kakerpakha",
+    "rainfall": 1339.4
+  },
+  {
+    "loction": "Kalaiya",
+    "rainfall": 1333.6
+  },
+  {
+    "loction": "Kalidamar",
+    "rainfall": 1630
+  },
+  {
+    "loction": "Kallagoth(Krishnapur)",
+    "rainfall": 1398.6
+  },
+  {
+    "loction": "Kalukheti",
+    "rainfall": 1309.3
+  },
+  {
+    "loction": "Kanyam Tea Estate",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Karki Neta",
+    "rainfall": 2070.9
+  },
+  {
+    "loction": "Karmaiya",
+    "rainfall": 2214.2
+  },
+  {
+    "loction": "Katai",
+    "rainfall": 1912.5
+  },
+  {
+    "loction": "Kathmandu",
+    "rainfall": 1279.3
+  },
+  {
+    "loction": "Katti",
+    "rainfall": 1937.3
+  },
+  {
+    "loction": "Kechana",
+    "rainfall": 2688.4
+  },
+  {
+    "loction": "Keur Gaun",
+    "rainfall": 1399.5
+  },
+  {
+    "loction": "Khadbari",
+    "rainfall": 1393.6
+  },
+  {
+    "loction": "Khairini Tar",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Khajura (Nepalganj)",
+    "rainfall": 1142.5
+  },
+  {
+    "loction": "Khanchikot",
+    "rainfall": 1491
+  },
+  {
+    "loction": "Khanikhola",
+    "rainfall": 1159.6
+  },
+  {
+    "loction": "Khaptad",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Khare Lalamt",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Khokana",
+    "rainfall": 1131
+  },
+  {
+    "loction": "Khopasi(Panauti)",
+    "rainfall": 951.5
+  },
+  {
+    "loction": "Khotang Bazar",
+    "rainfall": 941.8
+  },
+  {
+    "loction": "Khudi Bazar",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Khumaltar",
+    "rainfall": 1053.9
+  },
+  {
+    "loction": "Kirmi",
+    "rainfall": 712.7
+  },
+  {
+    "loction": "Koilabas",
+    "rainfall": 1480.5
+  },
+  {
+    "loction": "Kola Gaun",
+    "rainfall": 1343
+  },
+  {
+    "loction": "Kolbhi",
+    "rainfall": 1975.6
+  },
+  {
+    "loction": "Kolti",
+    "rainfall": 809.2
+  },
+  {
+    "loction": "Kotagaun",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Kotjhari",
+    "rainfall": 1659.6
+  },
+  {
+    "loction": "Kuhun",
+    "rainfall": 844.8
+  },
+  {
+    "loction": "Kumalgaun",
+    "rainfall": 1591.2
+  },
+  {
+    "loction": "Kunchha",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Kurle Ghat",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Kushma",
+    "rainfall": 2268.3
+  },
+  {
+    "loction": "Lahan",
+    "rainfall": 1332.1
+  },
+  {
+    "loction": "Lalmatiya",
+    "rainfall": 1681.1
+  },
+  {
+    "loction": "Lalitpur",
+    "rainfall": 1586.5
+  },
+  {
+    "loction": "Lamachaur",
+    "rainfall": 4586.4
+  },
+  {
+    "loction": "Lamahi",
+    "rainfall": 1353.8
+  },
+  {
+    "loction": "Laprak",
+    "rainfall": 1638.5
+  },
+  {
+    "loction": "Larke Samdo",
+    "rainfall": 606.3
+  },
+  {
+    "loction": "Leguwa Ghat",
+    "rainfall": 936.4
+  },
+  {
+    "loction": "Lele",
+    "rainfall": 1038.7
+  },
+  {
+    "loction": "Letang",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Lete",
+    "rainfall": 1395.5
+  },
+  {
+    "loction": "Libang Gaun",
+    "rainfall": 1218.2
+  },
+  {
+    "loction": "Lumbini",
+    "rainfall": 1369.5
+  },
+  {
+    "loction": "Lumle",
+    "rainfall": 5030.4
+  },
+  {
+    "loction": "Lumpthi",
+    "rainfall": 1916
+  },
+  {
+    "loction": "Lungthung",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Luwamjula Bazar",
+    "rainfall": 974
+  },
+  {
+    "loction": "Machhi Khola",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Machhuwaghat",
+    "rainfall": 1274.7
+  },
+  {
+    "loction": "Madi Kalyanpur",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Mahendra Nagar",
+    "rainfall": 1869
+  },
+  {
+    "loction": "Maina Gaun (D.bas)",
+    "rainfall": 2527.1
+  },
+  {
+    "loction": "Majhimtar",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Makwanpur Gadhi",
+    "rainfall": 2388
+  },
+  {
+    "loction": "Malakheti",
+    "rainfall": 1788.4
+  },
+  {
+    "loction": "Malangwa",
+    "rainfall": 1253.6
+  },
+  {
+    "loction": "Malepatan (Pokhara)",
+    "rainfall": 4234.4
+  },
+  {
+    "loction": "Malunga",
+    "rainfall": 1611.5
+  },
+  {
+    "loction": "Manang Bhot",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Mandan",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Mane Bhanjyang",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Mangalsen",
+    "rainfall": 1225.9
+  },
+  {
+    "loction": "Mangri",
+    "rainfall": 833.1
+  },
+  {
+    "loction": "Manma",
+    "rainfall": 1352.7
+  },
+  {
+    "loction": "Manpur",
+    "rainfall": 1192.8
+  },
+  {
+    "loction": "Manthali",
+    "rainfall": 677.1
+  },
+  {
+    "loction": "Manusmara",
+    "rainfall": 1347.4
+  },
+  {
+    "loction": "Marchabar",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Markhu Gaun",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Meghauli",
+    "rainfall": 2032.7
+  },
+  {
+    "loction": "Mehalkuna",
+    "rainfall": 1441.6
+  },
+  {
+    "loction": "Melung",
+    "rainfall": 1469.3
+  },
+  {
+    "loction": "Muga",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Mul Ghat",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Muna",
+    "rainfall": 2670.1
+  },
+  {
+    "loction": "Musikot",
+    "rainfall": 2912.2
+  },
+  {
+    "loction": "Musikot (Rukumkot)",
+    "rainfall": 2254
+  },
+  {
+    "loction": "Naar",
+    "rainfall": 431.3
+  },
+  {
+    "loction": "Nagarjun",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Nagarkot",
+    "rainfall": 1723
+  },
+  {
+    "loction": "Nagdaha",
+    "rainfall": 1057.5
+  },
+  {
+    "loction": "Nagma",
+    "rainfall": 677.3
+  },
+  {
+    "loction": "Naikap",
+    "rainfall": 826.7
+  },
+  {
+    "loction": "Namrung",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Nangkhel",
+    "rainfall": 1130.8
+  },
+  {
+    "loction": "Naubasta",
+    "rainfall": 1318.2
+  },
+  {
+    "loction": "Nawalpur",
+    "rainfall": 2057.7
+  },
+  {
+    "loction": "Nayabasti (Dang)",
+    "rainfall": 1831.6
+  },
+  {
+    "loction": "Nepalgunj Airport",
+    "rainfall": 1335.8
+  },
+  {
+    "loction": "Nepalgunj(Reg.off.)",
+    "rainfall": 1111.8
+  },
+  {
+    "loction": "Nepalthok",
+    "rainfall": 698.3
+  },
+  {
+    "loction": "Nijgadh",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Nirmal Pokhari",
+    "rainfall": 2977.9
+  },
+  {
+    "loction": "Num",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Nuwakot",
+    "rainfall": 1728.6
+  },
+  {
+    "loction": "Oirano",
+    "rainfall": 1955.1
+  },
+  {
+    "loction": "Okhaldhunga",
+    "rainfall": 1579.6
+  },
+  {
+    "loction": "Padhampur",
+    "rainfall": 1636.7
+  },
+  {
+    "loction": "Pakhapani",
+    "rainfall": 958.1
+  },
+  {
+    "loction": "Pakhribas",
+    "rainfall": 1404.7
+  },
+  {
+    "loction": "Pamdur",
+    "rainfall": 4954.9
+  },
+  {
+    "loction": "Panchamul",
+    "rainfall": 3139
+  },
+  {
+    "loction": "Panchase",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Panchkhal",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Panipokhari(Kathmandu)",
+    "rainfall": 1398.6
+  },
+  {
+    "loction": "Pansayakhola",
+    "rainfall": 2676.7
+  },
+  {
+    "loction": "Parasi",
+    "rainfall": 2005.1
+  },
+  {
+    "loction": "Parsia",
+    "rainfall": 1412.2
+  },
+  {
+    "loction": "Parwanipur",
+    "rainfall": 1599
+  },
+  {
+    "loction": "Patan (West)",
+    "rainfall": 1176.6
+  },
+  {
+    "loction": "Patan New",
+    "rainfall": 1193.5
+  },
+  {
+    "loction": "Pattharkot (West)",
+    "rainfall": 2021.1
+  },
+  {
+    "loction": "Pattharkot(East)",
+    "rainfall": 1376.2
+  },
+  {
+    "loction": "Pekarnas",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Phatepur",
+    "rainfall": 1708.5
+  },
+  {
+    "loction": "Phidim (Panchther)",
+    "rainfall": 1161.8
+  },
+  {
+    "loction": "Phopli",
+    "rainfall": 2445.5
+  },
+  {
+    "loction": "Pipalchaur",
+    "rainfall": 1919
+  },
+  {
+    "loction": "Pipalkot",
+    "rainfall": 2298.1
+  },
+  {
+    "loction": "Pisang Goun",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Pokhara Airport",
+    "rainfall": 3743.3
+  },
+  {
+    "loction": "Pokhara Reg. Off.",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Pumdhi Bumdhi",
+    "rainfall": 4459
+  },
+  {
+    "loction": "Pusma Camp",
+    "rainfall": 1554.8
+  },
+  {
+    "loction": "Rainastar",
+    "rainfall": 1599.4
+  },
+  {
+    "loction": "Raisalli (Daulichaur)",
+    "rainfall": 2392.1
+  },
+  {
+    "loction": "Rajaiya",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Rajapur",
+    "rainfall": 1642.7
+  },
+  {
+    "loction": "Rajbiraj",
+    "rainfall": 1670.4
+  },
+  {
+    "loction": "Rakam",
+    "rainfall": 734.8
+  },
+  {
+    "loction": "Rambhapur",
+    "rainfall": 1660.2
+  },
+  {
+    "loction": "Ramjakot",
+    "rainfall": 1268.8
+  },
+  {
+    "loction": "Ramoli Bairiya",
+    "rainfall": 1854.4
+  },
+  {
+    "loction": "Rampur",
+    "rainfall": 3320.2
+  },
+  {
+    "loction": "Rampur (Beljhundi)",
+    "rainfall": 1443.9
+  },
+  {
+    "loction": "Rangkhani",
+    "rainfall": 999.8
+  },
+  {
+    "loction": "Rangsing",
+    "rainfall": 1587.1
+  },
+  {
+    "loction": "Rani Jaruwa Nursery",
+    "rainfall": 1450.1
+  },
+  {
+    "loction": "Ranimatta",
+    "rainfall": 1750.2
+  },
+  {
+    "loction": "Ranipauwa (M.nath)",
+    "rainfall": 260.8
+  },
+  {
+    "loction": "Rara",
+    "rainfall": 833.2
+  },
+  {
+    "loction": "Ratamata",
+    "rainfall": 1104.2
+  },
+  {
+    "loction": "Rayal",
+    "rainfall": 1376.6
+  },
+  {
+    "loction": "Ridi Bazar",
+    "rainfall": 1038.8
+  },
+  {
+    "loction": "Rimichaur",
+    "rainfall": 1331.8
+  },
+  {
+    "loction": "Rivan",
+    "rainfall": 3731.7
+  },
+  {
+    "loction": "Rudu(Narakot)",
+    "rainfall": 812.5
+  },
+  {
+    "loction": "Rukumkot",
+    "rainfall": 1692.8
+  },
+  {
+    "loction": "Rulbang (Juwang)",
+    "rainfall": 1450.1
+  },
+  {
+    "loction": "Rupal",
+    "rainfall": 1228.7
+  },
+  {
+    "loction": "Safebagar",
+    "rainfall": 1037
+  },
+  {
+    "loction": "Sahukharka",
+    "rainfall": 1352.6
+  },
+  {
+    "loction": "Sakhar",
+    "rainfall": 1517.1
+  },
+  {
+    "loction": "Salleri",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Sallyan (Kaski)",
+    "rainfall": 3986.4
+  },
+  {
+    "loction": "Salyan Bazar",
+    "rainfall": 782
+  },
+  {
+    "loction": "Samar Gaun",
+    "rainfall": 128.5
+  },
+  {
+    "loction": "Sanda",
+    "rainfall": 239.3
+  },
+  {
+    "loction": "Sandepani",
+    "rainfall": 1887.4
+  },
+  {
+    "loction": "Sandhikharka",
+    "rainfall": 1116.1
+  },
+  {
+    "loction": "Sangachok",
+    "rainfall": 1171.2
+  },
+  {
+    "loction": "Sanischare",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Sankhu",
+    "rainfall": 1426.5
+  },
+  {
+    "loction": "Sapta",
+    "rainfall": 512.9
+  },
+  {
+    "loction": "Sarmathang",
+    "rainfall": 3988.7
+  },
+  {
+    "loction": "Satbanjh",
+    "rainfall": 1502.2
+  },
+  {
+    "loction": "Semari",
+    "rainfall": 2401.5
+  },
+  {
+    "loction": "Seroge",
+    "rainfall": 765.9
+  },
+  {
+    "loction": "Seulibang",
+    "rainfall": 2628.7
+  },
+  {
+    "loction": "Shaktikhor",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Shera Gaun",
+    "rainfall": 1013
+  },
+  {
+    "loction": "Sheri Ghat",
+    "rainfall": 1494.9
+  },
+  {
+    "loction": "Shilinge",
+    "rainfall": 1871.4
+  },
+  {
+    "loction": "Sidhara",
+    "rainfall": 1853.9
+  },
+  {
+    "loction": "Siklesh",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Sikta",
+    "rainfall": 1916.8
+  },
+  {
+    "loction": "Silgadhi Doti",
+    "rainfall": 1130.2
+  },
+  {
+    "loction": "Simara Airport",
+    "rainfall": 1967.1
+  },
+  {
+    "loction": "Simikot",
+    "rainfall": 803.4
+  },
+  {
+    "loction": "Simikot Airport",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Sindhuli Madhi",
+    "rainfall": 2202.3
+  },
+  {
+    "loction": "Siraha",
+    "rainfall": 1321.2
+  },
+  {
+    "loction": "Sirkon",
+    "rainfall": 1592.4
+  },
+  {
+    "loction": "Sitapur",
+    "rainfall": 1769.4
+  },
+  {
+    "loction": "Sitapur(Nepaney)",
+    "rainfall": 2115.5
+  },
+  {
+    "loction": "Sugali",
+    "rainfall": 1926.3
+  },
+  {
+    "loction": "Sukhabare",
+    "rainfall": 1352.4
+  },
+  {
+    "loction": "Sulichour(Sarichour)",
+    "rainfall": 1111
+  },
+  {
+    "loction": "Sundarijal (Alapot)",
+    "rainfall": 1902.9
+  },
+  {
+    "loction": "Sundarijal (Mulkharka)",
+    "rainfall": 2315.7
+  },
+  {
+    "loction": "Sunkuda",
+    "rainfall": 1132.9
+  },
+  {
+    "loction": "Suraypura",
+    "rainfall": 1499.7
+  },
+  {
+    "loction": "Surkhet (Birendra Nagar)",
+    "rainfall": 1357
+  },
+  {
+    "loction": "Surkhet Regional Office",
+    "rainfall": 1409.2
+  },
+  {
+    "loction": "Swargdwari",
+    "rainfall": 1117.2
+  },
+  {
+    "loction": "Syamgha",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Syangja",
+    "rainfall": 2763.2
+  },
+  {
+    "loction": "Taal",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Tamghas",
+    "rainfall": 1486.7
+  },
+  {
+    "loction": "Tansen",
+    "rainfall": 1683.2
+  },
+  {
+    "loction": "Taplejung",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Taplethok",
+    "rainfall": 2787.9
+  },
+  {
+    "loction": "Tarahara",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Taratal",
+    "rainfall": 1055.5
+  },
+  {
+    "loction": "Tarke Ghyang",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Tatopani",
+    "rainfall": 2187.7
+  },
+  {
+    "loction": "Taulihawa",
+    "rainfall": 1632.4
+  },
+  {
+    "loction": "Terhathum",
+    "rainfall": 876.1
+  },
+  {
+    "loction": "Thakmarpha",
+    "rainfall": 390.4
+  },
+  {
+    "loction": "Thalara",
+    "rainfall": 2580.9
+  },
+  {
+    "loction": "Thali",
+    "rainfall": 1247.3
+  },
+  {
+    "loction": "Thamachit",
+    "rainfall": 1089
+  },
+  {
+    "loction": "Thankot",
+    "rainfall": 1548.9
+  },
+  {
+    "loction": "Thaprek",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Tharmare",
+    "rainfall": 1073.9
+  },
+  {
+    "loction": "Thirpu",
+    "rainfall": 392.5
+  },
+  {
+    "loction": "Thokarpa",
+    "rainfall": 1785.2
+  },
+  {
+    "loction": "Tikapur",
+    "rainfall": 1822.6
+  },
+  {
+    "loction": "Tikathali",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Timure",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Tribeni",
+    "rainfall": 4321
+  },
+  {
+    "loction": "Tribeni (Dhankuta)",
+    "rainfall": 1746.1
+  },
+  {
+    "loction": "Tulsi",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Tulsipur",
+    "rainfall": "NA"
+  },
+  {
+    "loction": "Tumlingtar",
+    "rainfall": 1249.8
+  },
+  {
+    "loction": "Udayapur Gadhi",
+    "rainfall": 1627.8
+  },
+  {
+    "loction": "Walling",
+    "rainfall": 1720.6
+  },
+  {
+    "loction": "Yamjakot",
+    "rainfall": 3631.5
+  }
+]

@@ -1,0 +1,19 @@
+#include <SoftwareSerial.h>
+
+// The serial connection to the GPS module
+SoftwareSerial ss(4, 3);
+
+void setup() {
+  // put your setup code here, to run once:
+Serial.begin(9600);
+  ss.begin(9600);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+while (ss.available() > 0){
+    // get the byte data from the GPS
+    byte gpsData = ss.read();
+    Serial.write(gpsData);
+  }
+}
